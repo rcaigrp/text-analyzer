@@ -1,12 +1,1 @@
-{
-  "goal": "Analyze text files for keywords and frequency.",
-  "acceptance_criteria": [
-    "text_analyzer module exists and can be imported",
-    "analyze_text function returns a dict of word frequencies",
-    "get_keywords function returns top N keywords by frequency",
-    "save_report function writes a report to a file"
-  ],
-  "meeting_budget": 4,
-  "meetings_held": 1,
-  "status": "active"
-}
+{"goal": "Analyze text files for keywords and frequency.", "acceptance_criteria": ["text_analyzer module exists and can be imported", "analyze_text function returns a dict of word frequencies", "get_keywords function returns top N keywords by frequency", "save_report function writes a report to a file"], "meeting_budget": 4, "meetings_held": 2, "status": "active"}

@@ -12,7 +12,7 @@ Analyze and extract keywords from text.
 4. `save_report` writes a report to a file.
 
 ## Status
-Active - Meeting 1/4 held.
+Active - Meeting 2/4 held.
 
 ## Completed Work
 - Implemented `text_analyzer.py` with `analyze_text`, `get_keywords`, `save_report`.
@@ -20,3 +20,5 @@ Active - Meeting 1/4 held.
 
 ## Next Steps
 - Run acceptance tests to validate completion.
+
+--- end README.md ---
